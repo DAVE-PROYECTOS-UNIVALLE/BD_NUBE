@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125747888484",
+    "project_id": "bd-inventario-ae15f",
+    "storage_bucket": "bd-inventario-ae15f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125747888484:android:35980623271ad1b7413a71",
+        "android_client_info": {
+          "package_name": "com.example.bd_productos_nube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPInxFQfTRjD0A1gNNuxkubvIjGLhZ4BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
